@@ -1,0 +1,278 @@
+* {
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+header h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  color: #d6000d;
+  text-transform: capitalize;
+  font-style: italic;
+  font-weight: 700;
+}
+
+header span {
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bolder;
+  margin: 0%;
+}
+nav {
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  text-transform: capitalize;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.botao {
+  width: 180px;
+  height: 50px;
+  background-color: #d6000d;
+  color: white;
+  border-radius: 8px;
+  font-weight: 450;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 80px;
+}
+main img {
+  height: 400px;
+  width: 450px;
+  margin-left: 0px;
+}
+
+.caixa1 {
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+  margin-left: 150px;
+}
+
+.caixa2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+.caixa2 h2 {
+  color: #d6000d;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+#botaoOrcamento {
+  width: 300px;
+  height: 50px;
+  background-color: #d6000d;
+  color: white;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.caixa3 {
+  display: flex;
+  margin-left: 130px;
+  margin-top: 43px;
+}
+
+.caixa3 img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.caixa4 {
+  display: flex;
+  margin-left: 130px;
+}
+
+.caixa4 img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.caixa5 {
+  display: flex;
+  margin-left: 130px;
+}
+
+.caixa5 img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.caixa6 {
+  display: flex;
+  margin-left: 130px;
+}
+
+.caixa6 img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.caixa7 {
+  display: flex;
+  margin-left: 130px;
+}
+
+.caixa7 img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.caixa8 {
+  display: flex;
+  margin-left: 130px;
+}
+
+.caixa8 img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+div p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  margin: 14px;
+}
+
+.secao2 {
+  display: flex;
+  margin-top: 300px;
+}
+
+#imgCodding {
+  margin-left: 100px;
+}
+
+.inputCelular {
+  background-color: #dad3d3;
+  width: 200px;
+  height: 40px;
+  border-radius: 8px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+}
+
+.ligamosParaVoce {
+  background-color: #d6000d;
+  width: 230px;
+  height: 45px;
+  border-radius: 8px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-weight: 800;
+  border: 'none';
+  border-bottom: 1px solid;
+}
+.contato {
+  margin-left: 160px;
+  margin-top: 66px;
+}
+
+.depoimento1 {
+  display: flex;
+  height: 202px;
+  width: 505px;
+  background-color: rgb(207, 203, 203);
+  margin-top: 100px;
+  border-radius: 8px;
+}
+
+#bola1 {
+  width: 220px;
+  height: 83px;
+  background-color: #d6000d;
+  margin: 50px;
+  border-radius: 50%;
+}
+
+.depoimentos {
+  display: flex;
+}
+
+.depoimentos p {
+  font-size: 20px;
+  margin: 0;
+  font-weight: 600px;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.EscritaDepoimentos {
+  display: flex;
+  flex-direction: column;
+}
+
+.EscritaDepoimentos b {
+  margin-top: 20px;
+}
+
+.depoimento2 {
+  display: flex;
+  height: 202px;
+  width: 505px;
+  background-color: rgb(207, 203, 203);
+  margin-top: 100px;
+  border-radius: 8px;
+}
+
+#bola2 {
+  width: 170px;
+  height: 83px;
+  background-color: #d6000d;
+  margin: 50px;
+  border-radius: 50%;
+}
+
+.EscritaDepoimentos2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.EscritaDepoimentos2 b {
+  margin-top: 20px;
+}
+
+.secaoFooter {
+  display: flex;
+  background-color: black;
+  color: white;
+  margin-top: 80px;
+  height: 335px;
+}
+
+.secaoFooter h1 {
+  font-family: 'Roboto';
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.secaoFooter p {
+  font-size: 15px;
+  font-weight: normal;
+}
+.secaoFooter h2 {
+  font-size: 30px;
+  margin-top: 45px;
+  font-family: 'Roboto';
+}
